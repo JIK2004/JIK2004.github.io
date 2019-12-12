@@ -1,0 +1,36 @@
+h1{color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 30pt;
+  font-style: italic;
+  font-family: courier;}
+
+h2{color: red;
+  background-color: yellow;
+  text-align: left;
+  font-size: 45pt;
+  font-style: bold;
+  font-family: arial}
+
+h3{color: orange;
+  background-color: purple;
+  text-align: center;
+  font-size: 50pt;
+  font-style: italic;
+  font-family: courier;}
+
+h4{color: green;
+  background-color: pink;
+  text-align: left;
+  font-size: 30pt;
+  line-height: 2;
+  font-family: arial;}
+
+h5{color: white;
+  background-color: blue;
+  text-align: right;
+  font-size: 25pt;
+  font-style: italic;
+  line-height: 3;
+  font-family: times new roman;} 
+body {background-color: #E53DFF}

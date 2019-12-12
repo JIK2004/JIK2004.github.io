@@ -1,0 +1,19 @@
+h1{color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 42pt;
+  font-style: italic;
+  font-family: times new roman}
+
+h2{color: yellow;
+  background-color: green;
+  text-align: right;
+  font-size: 16pt;
+  font-style: bold;
+  font-family: courier}
+
+h3{color: blue;
+  text-align: left;
+  font-size: 12pt;
+  text-decoration: underline;
+  font-family: arial;}

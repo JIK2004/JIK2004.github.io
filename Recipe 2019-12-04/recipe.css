@@ -1,0 +1,33 @@
+body {background-image: url('background.jpg');}
+
+div {display: flex;
+    flex-flow: row;
+    padding-left: 4cm;}
+
+/*tables */
+table{padding-left: 2cm;
+     display: flex;
+     flex-flow: row;
+     background-color: rgba(255, 255, 255, 0.5);}
+
+td{font-size: 35px;
+  font-family: courier;}
+
+/* Title*/
+h1{color: brown;
+  font-size: 40px;
+  text-align: center;
+  font-family: courier;
+  background-color: rgba(255, 255, 255, 0.5);}
+
+/* subtitle*/
+h2{color: olive;
+  font-size: 30px;
+  font-family: courier;}
+
+/* information about the subtitle*/
+p{font-family: courier;
+ font-size: 25px;}
+
+form{font-size: 25px;
+    font-family: courier;}
